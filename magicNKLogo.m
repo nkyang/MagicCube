@@ -1,3 +1,4 @@
+addpath source
 % N is the order of Rubik's Cube
 % it takes about ten minutes to initialize a 70*70 Rubik's Cube
 N = 70;

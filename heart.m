@@ -1,3 +1,5 @@
+addpath source
+
 N = 7;
 figure()
 ax = gca;
